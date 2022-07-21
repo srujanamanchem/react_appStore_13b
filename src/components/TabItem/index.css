@@ -1,0 +1,20 @@
+.category-tab {
+  list-style: none;
+}
+.active {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+  padding-bottom: 8px;
+}
+.tab-name {
+  font-size: 16px;
+  background-color: transparent;
+  color: #7b8794;
+  width: 70px;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-left-width: 0;
+  border-bottom: 2px solid #7b8794;
+  padding-bottom: 4px;
+  cursor: pointer;
+}

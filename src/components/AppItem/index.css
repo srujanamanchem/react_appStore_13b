@@ -1,0 +1,22 @@
+.category-app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  width: 150px;
+  height: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+}
+.app-image {
+  width: 120px;
+  margin-bottom: 0px;
+}
+.app-name {
+  margin-top: 0;
+  font-family: 'Bree Serif';
+  font-size: 19px;
+}
