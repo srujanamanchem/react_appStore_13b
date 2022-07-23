@@ -321,7 +321,7 @@ class AppStore extends Component {
   }
 
   render() {
-    const {searchInput, activeTabId} = this.setState
+    const {searchInput, activeTabId} = this.State
 
     const searchResults = this.getSearchResults()
 
